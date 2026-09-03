@@ -7,11 +7,7 @@ const CONFIG = {
     API_BASE_URL: 'https://api.getfiles.my.id',
 
     // URL Direct Link Pop-under Milik Client (Kosongkan jika menggunakan script di index.html)
-    CLIENT_POPUNDER_URL: '',
-
-    // URL CDN (Pull Zone) dari Bunny Storage Anda (Kosongkan jika masih pakai Stream lama)
-    // Contoh: 'cdn.domainanda.com' atau 'nama-zone.b-cdn.net'
-    BUNNY_PULL_ZONE_URL: 'getfiles.b-cdn.net',
+    CLIENT_POPUNDER_URL: 'https://exteriorsingularsharply.com/bfe9wdbfht?key=4acd8a7ad367109b82ee476a566654a8',
 
     // URL CDN Cloudflare R2 (Baru)
     R2_PUBLIC_URL: 'pub-1880d72cd0f343999d3197d949ff8213.r2.dev'
